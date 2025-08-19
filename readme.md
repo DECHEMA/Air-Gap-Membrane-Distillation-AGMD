@@ -14,6 +14,8 @@ Membrane distillation (MD) is a thermally driven membrane process in which the s
 
 ![alt text](image.png)
 
+[1] Source of the Picture
+
 For the purpose of process analysis, Simulink has been chosen as the simulation environment. The development of the models is still ongoing, and reliable results are not yet available. The long-term objective of this work is to establish modular and scalable models of both AGMD and reverse osmosis in order to assess their respective performance and to compare their suitability for integration into offshore hydrogen production chains as part of the PtX-Wind project
 
 ## Source
