@@ -13,7 +13,7 @@ DECHEMA has bundled various aspects of the energy transition with regard to wate
 Membrane distillation (MD) is a thermally driven membrane process in which the separation is based on a vapor pressure difference across the membrane. In contrast to conventional thermal separation processes, which typically require high temperatures close to the boiling point or the application of a vacuum, MD can be operated at moderate feed temperatures in the range of 40 to 90 °C and at atmospheric pressure. One of its key advantages is the nearly complete rejection of salts, with reported separation efficiencies approaching one hundred percent. In the case of air gap membrane distillation, a thin layer of air is located between the membrane and the condensation surface. This air gap reduces the effective heat transfer and therefore improves the energy efficiency of the process. Other configurations, such as direct contact membrane distillation, sweep gas membrane distillation, vacuum membrane distillation or hybrid arrangements, exist as well, but AGMD has been identified as particularly relevant for the offshore desalination application within this project.
 
 <img align="center" height="400" src=images/image.png.png>
-![alt text](image.png)
+![alt text](image/image.png)
 
 [1] 
 
